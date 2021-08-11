@@ -1,0 +1,36 @@
+#main_head{
+    width:100%;
+    background-color:aquamarine;
+    height: 100vh;
+}
+
+button{
+    position: absolute;
+    top: 70%;
+    font-size: 24px;
+    margin-top: 24px;
+    margin-left: 50%;
+    margin-right: auto;
+    border-radius: 12px;
+    padding: 20px;
+    background-color: rgb(247, 60, 216);
+    color:rgb(5, 5, 5);
+}
+
+#main-heading{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    /* right: 50%; */
+    transform: translate(-50%,-50%);
+}
+
+.big{
+    font-size: 50px;
+    color: rgb(151, 8, 170);
+}
+
+.small{
+    font-size: 20px;
+    color:rgb(91, 137, 238);
+}
