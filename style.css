@@ -27,7 +27,8 @@ button{
 
 .big{
     font-size: 50px;
-    color: rgb(151, 8, 170);
+/*     color: rgb(151, 8, 170); */
+    color: rgba(29, 6, 230, 0.986);
 }
 
 .small{
