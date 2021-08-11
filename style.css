@@ -31,8 +31,13 @@ button{
     color: rgba(29, 6, 230, 0.986);
 }
 
-.small{
+/* .small{
     font-size: 20px;
 /*     color:rgb(91, 137, 238); */
     color:rgb(247, 7, 7); 
+} */
+.small{
+    font-size: 20px;
+    /* color:rgb(91, 137, 238); */
+    color:rgb(247, 7, 7)
 }
