@@ -33,5 +33,6 @@ button{
 
 .small{
     font-size: 20px;
-    color:rgb(91, 137, 238);
+/*     color:rgb(91, 137, 238); */
+    color:red;
 }
